@@ -1,0 +1,9 @@
+﻿.env
+.env.*
+!.env.example
+config/database.local.php
+/vendor/
+/node_modules/
+.idea/
+.vscode/
+*.log
